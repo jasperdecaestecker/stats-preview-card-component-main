@@ -6,9 +6,9 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 I kept things simple and only use basic css and html. There is some degree of flexbox and css grid used to center the card and create the "stats" section.
 
-Feedback? [Feedback page](https://www.frontendmentor.io/solutions/order-summary-using-basic-css-html-no-framework-OvHOGSAf5)
+Feedback? [Feedback page](https://www.frontendmentor.io/solutions/stats-preview-card-component-with-pure-css-flexbox-grid-KlYlzhqBs)
 
-[Live Page - Netlify](https://peaceful-babbage-d50c0a.netlify.app/)
+[Live Page - Netlify](https://reverent-dijkstra-6d12f9.netlify.app/)
 
 ## Useful resources
 

@@ -76,8 +76,7 @@ body {
   border-radius: 0 8px 8px 0;
   background-image: url('./images/image-header-desktop.jpg');
   background-repeat: no-repeat, repeat;
-  background-blend-mode: overlay;
-  opacity: 0.6;
+  background-blend-mode: multiply;
   background-color: var(--color-accent);
 }
 
